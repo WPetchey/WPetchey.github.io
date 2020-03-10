@@ -1,6 +1,6 @@
 body {
   font-family: 'Cairo', sans-serif;
   color: white;
-  background-image: linear-gradient(to bottom, transparent, #837960), url("Images/background.jpg");
+  background-image: linear-gradient(to bottom, transparent, #837960), url("images/horsehead.jpg");
   background-repeat: no-repeat;
 }
