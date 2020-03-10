@@ -1,3 +1,3 @@
 # WPetchey.github.io
 
-Repositry for Github hosted website
+Repository for Github hosted website
